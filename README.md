@@ -1,11 +1,7 @@
 
-<p align="center">
-    <style="font-size:500px">
-        <font color="#00CED1">
+<h1 align="center">
         Задачи для прохождения собеседования на позицию Intern Python developer в компанию PyShop
-        </font>
-    </style>
-</p>
+</h1>
 
 
 # [**Задание 1**](task-1.py) Разработать функцию определения счета в игре

@@ -1,5 +1,5 @@
 
-<p align="center" style="font-size:500dp">
+<p align="center" style="font-size:500px">
     <font color="#00CED1">
     Задачи для прохождения собеседования на позицию Intern Python developer в компанию PyShop
     </font>
